@@ -12,3 +12,7 @@
 -로그인
 
 ![image](https://user-images.githubusercontent.com/79193811/201294700-278b20f9-d8b4-4f10-9985-f0bacb7cd2b8.png)
+
+-유효성검증 
+
+![image](https://user-images.githubusercontent.com/79193811/201294829-a980bbd4-7f70-4574-b781-b1bdcd942dbf.png)
