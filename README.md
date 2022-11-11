@@ -1,2 +1,6 @@
-# Node.js-Login-Project
-node.js ,express.js ,mongodb를 활용해서 처음으로 회원가입기능 및 로그인기능을 구현해보았다.
+# Node.js-Login-Projec
+-Node.js 
+-Express.js
+-DongoDB
+
+로그인 회원가입 구현
